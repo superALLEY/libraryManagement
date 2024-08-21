@@ -1,0 +1,6 @@
+ 6,  mahboub,  bahi,  mi, 
+ 5,  ouechen,  abdou,  mi, 
+ 4,  rouabeh,  mouad,  ingenieur, 
+ 3,  maakouf,  iyed,  ingenieur, 
+ 2,  dekkoumi,  haroun,  ingenieur, 
+ 1,  inouri,  mohamed,  ingenieur, 

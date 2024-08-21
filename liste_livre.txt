@@ -1,0 +1,5 @@
+ 5, odyssee, mythologie, homere, 
+ 4, l_etranger, meurtre, albert_camus, 
+ 3, les_hauts_de_hurle, 3, emiliy_bronte, 
+ 2, 1984, science_fiction, orwell, 
+ 1, orgueil, amour, jane, 
