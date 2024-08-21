@@ -22,11 +22,11 @@ The system is built using the following components:
 ## Files
 
 - `main.c`: The main file that contains the implementation of the library management system.
-- `books.txt`: A file where book data is stored persistently.
+- `files.txt`: A file where book all  data is stored persistently.
 
 ## How to Run
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/superALLEY/libraryManagement.git
+   cd libraryManagement
